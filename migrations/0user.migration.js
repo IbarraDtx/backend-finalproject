@@ -29,7 +29,7 @@ module.exports = {
                 unique: true,
             },
             age: {
-                type: Sequelize.DATE,
+                type: Sequelize.INTEGER,
                 require: true,
                 allowNull: false,
             },
