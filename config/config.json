@@ -16,9 +16,9 @@
   },
   "production": {
     "username": "root",
-    "password": null,
-    "database": "airbnb_db",
-    "host": "127.0.0.1",
+    "password": "urmQlvzQOMxUfQnfLMwTHgjfocomRIOI",
+    "database": "railway",
+    "host": "mysql.railway.internal",
     "dialect": "mysql"
   }
 }
